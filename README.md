@@ -3,7 +3,7 @@
   
 - 👀 I'm an aspiring Cloud Engineer with a background in web development and a passion for learning cloud infrastructure, automation, and DevOps practices.
   
-- 🌱 I’m currently studying cloud engineering at AltSchool Africa.
+- 🌱 I’m currently studying Cloud Engineering at AltSchool Africa.
   
 - 💻 **What I'm focused on now:**
   
