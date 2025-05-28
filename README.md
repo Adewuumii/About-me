@@ -5,7 +5,7 @@
   
 - 🌱 I’m currently studying Cloud Engineering at AltSchool Africa.
   
-- 💻 **What I'm focused on now:**
+- 💻 **What I'm currently focused on:**
   
   * Learning and working with Linux, and core AWS services
   * Scripting with Bash and managing packages via the command line
