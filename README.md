@@ -1,10 +1,17 @@
 -👋 Hi, I’m Adéwùmí.
-- 👀 I’m interested in cloud engineering and exploring software development.
-- 🌱 I’m currently learning HTML, CSS, and JavaScript at AltSchool Africa to build a strong foundation in web development.
-- 💞️ I’m looking to collaborate on front-end projects, web applications, or any beginner-friendly software development initiatives where I can contribute and grow my skills.
-- 📫 Reach me @adewumi0110@gmail.com or @thelobafunto@gmail.com
-- 😄 Pronouns: she/her
-- ⚡ Fun fact: I sleep with my eyes closed
+- 👀 I'm an aspiring Cloud Engineer with a background in web development and a passion for learning cloud infrastructure, automation, and DevOps practices. 
+- 🌱 I’m currently studying cloud engineering at AltSchool Africa.
+- 💻 **What I'm focused on now:**
+  * Learning and working with Linux, and core AWS services
+  * Scripting with Bash and managing packages via the command line
+  * Gaining hands-on experience with server provisioning and infrastructure automation
+- **💞️ I’m looking to collaborate on:**
+  * Beginner-friendly cloud infrastructure or DevOps projects
+  * Scripts or automation tasks in real-world environments
+  * Documentation or internal tooling that helps others
+- 📫 **Reach me:** @adewumi0110@gmail.com or @thelobafunto@gmail.com
+- 😄 **Pronouns:** she/her
+  
 
 <!---
 Adewuumii/Adewuumii is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
