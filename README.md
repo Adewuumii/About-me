@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Adéwùmí  
+## 👋 _Hi, I’m Adéwùmí_  
 - 😄 **Pronouns:** she/her  
 - I’m a **cloud engineer** with a background in web development and a growing passion for cloud infrastructure, automation, and DevOps.  
 - 😊 Heads up! I enjoy learning by building, so feel free to explore my projects.
