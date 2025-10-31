@@ -6,7 +6,9 @@
 - 😄 Want to know a **fun fact**? I respond to emails faster than DMs — so reach out to me [📫 _here_](mailto:adewumi0110@gmail.com) if you’ve got a cool idea, would love to work with me, or just want to geek out.  
 - Or maybe your curiosity led you to my [💼 _LinkedIn_](https://www.linkedin.com/in/adewumi-ajibade)? Well, welcome 😄.  
 - …and oh! Don’t leave just yet — you might enjoy my technical articles on [✍️ _Medium_](https://medium.com/@Adewuumii) too.  
-> Oh well now, don’t be a stranger. Let's get to work 😉🚀
+
+
+_Oh well now, don’t be a stranger. Let's get to work_ 😉🚀
 
 
   
